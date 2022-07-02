@@ -72459,6 +72459,11 @@
 			"variation": 0
 		},
 		{
+			"originalRef": {
+				"typeName": "EffectReferenceObjectData",
+				"instanceGuid": "810F41E0-FEC9-47CE-AB05-2B5CD23B5CF1",
+				"partitionGuid": "37CB84EB-BC80-40AD-AE9D-AF1DCF77DF6A"
+			},
 			"origin": 1,
 			"transform": {
 				"left": {
