@@ -1,0 +1,1178 @@
+{
+	"header": {
+		"timeStamp": 1658297224984,
+		"id": 454,
+		"saveVersion": "0.1.0",
+		"requiredBundles": {
+			"Levels/XP4_Parl/Conquest": true,
+			"gameconfigurations/game": true,
+			"levels/mp_013/mp_013": true,
+			"Levels/XP4_Parl/Conquest_Large": true,
+			"Levels/Coop_010/Coop_010": true,
+			"Levels/SP_Tank/SP_Tank": true,
+			"Levels/Coop_009/ab00_art_interior_parent": true,
+			"Levels/MP_Subway/MP_Subway_Settings_win32": true,
+			"Levels/Coop_009/ab00_art_parent": true,
+			"Levels/SP_Bank/SP_Bank": true,
+			"Levels/XP5_001/XP5_001": true,
+			"Levels/XP4_Parl/XP4_Parl": true,
+			"Levels/Coop_006/Coop_006": true,
+			"Levels/XP5_001/CQL": true,
+			"Levels/SP_Bank/Ride_SUB": true,
+			"Levels/XP5_001/Conquest": true,
+			"Levels/Coop_009/Coop_009": true,
+			"Levels/SP_Tank/DesertFort": true
+		},
+		"projectName": "Parl Project",
+		"mapName": "XP4_Parl",
+		"gameModeName": "ConquestLarge0"
+	},
+	"data": [
+		{
+			"name": "Objects/Vegetation/TreeBeech_L_01/TreeBeech_L_01",
+			"transform": {
+				"left": {
+					"x": 0.780,
+					"y": -0.002,
+					"z": -0.549
+				},
+				"up": {
+					"x": 0.001,
+					"y": 0.954,
+					"z": -0.002
+				},
+				"forward": {
+					"x": 0.549,
+					"y": 0.001,
+					"z": 0.780
+				},
+				"trans": {
+					"x": -507.605,
+					"y": 63.662,
+					"z": -1.269
+				}
+			},
+			"blueprintCtrRef": {
+				"partitionGuid": "E7D90BE0-8C50-11E0-8D30-E7D6DB601A7A",
+				"name": "Objects/Vegetation/TreeBeech_L_01/TreeBeech_L_01",
+				"instanceGuid": "FCB7701D-63BD-288A-D5B9-202C1FB3CF19",
+				"typeName": "ObjectBlueprint"
+			},
+			"origin": 2,
+			"variation": 1653578684,
+			"guid": "E813DACC-34EB-3BE7-D69D-8DC306261CA7"
+		},
+		{
+			"name": "Props/HighwayProps/MetalBarrier_01/MetalBarrier_Pole",
+			"origin": 2,
+			"blueprintCtrRef": {
+				"partitionGuid": "45BD4B56-01A0-11DE-B4E1-D24BF3EC261A",
+				"name": "Props/HighwayProps/MetalBarrier_01/MetalBarrier_Pole",
+				"instanceGuid": "45BD4B57-01A0-11DE-B4E1-D24BF3EC261A",
+				"typeName": "ObjectBlueprint"
+			},
+			"transform": {
+				"left": {
+					"x": 1.149,
+					"y": 0,
+					"z": -0.964
+				},
+				"up": {
+					"x": 0,
+					"y": 2.300,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.964,
+					"y": 0,
+					"z": 1.149
+				},
+				"trans": {
+					"x": -626.781,
+					"y": 66.148,
+					"z": 65.285
+				}
+			},
+			"guid": "9D465E73-F470-D0B9-4134-999313F01679"
+		},
+		{
+			"name": "Architecture/ME_StorefrontsAddons/ME_Storefronts_NarrowRampWall_01",
+			"origin": 2,
+			"blueprintCtrRef": {
+				"partitionGuid": "C58E2683-43F6-11E0-9DF8-AEF258F5624C",
+				"name": "Architecture/ME_StorefrontsAddons/ME_Storefronts_NarrowRampWall_01",
+				"instanceGuid": "05A9A699-C690-1D6E-F182-D009D17C9283",
+				"typeName": "ObjectBlueprint"
+			},
+			"transform": {
+				"left": {
+					"x": 0.819,
+					"y": 0,
+					"z": -0.574
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.574,
+					"y": 0,
+					"z": 0.819
+				},
+				"trans": {
+					"x": -618.404,
+					"y": 66.619,
+					"z": 59.294
+				}
+			},
+			"guid": "037565DF-2B4C-ADC7-6805-B8B5C90333AE"
+		},
+		{
+			"name": "Levels/COOP_010/props/Coop_Generic_DoorFrame",
+			"origin": 2,
+			"blueprintCtrRef": {
+				"partitionGuid": "BC91233F-CE5E-11E0-AD4D-B425042C3B5F",
+				"name": "Levels/COOP_010/props/Coop_Generic_DoorFrame",
+				"instanceGuid": "4F3359F4-C129-774E-2BA5-858CEAC95ECE",
+				"typeName": "ObjectBlueprint"
+			},
+			"transform": {
+				"left": {
+					"x": 0.574,
+					"y": 0,
+					"z": 0.819
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": -0.819,
+					"y": 0,
+					"z": 0.574
+				},
+				"trans": {
+					"x": -615.355,
+					"y": 65.563,
+					"z": 54.459
+				}
+			},
+			"guid": "52B94C5E-33F4-BA9C-AE94-EFBE1ECF119D"
+		},
+		{
+			"name": "Architecture/ME_StorefrontsAddons/ME_Storefronts_NarrowRampWall_01",
+			"origin": 2,
+			"blueprintCtrRef": {
+				"partitionGuid": "C58E2683-43F6-11E0-9DF8-AEF258F5624C",
+				"name": "Architecture/ME_StorefrontsAddons/ME_Storefronts_NarrowRampWall_01",
+				"instanceGuid": "05A9A699-C690-1D6E-F182-D009D17C9283",
+				"typeName": "ObjectBlueprint"
+			},
+			"transform": {
+				"left": {
+					"x": -0.574,
+					"y": 0,
+					"z": -0.819
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.819,
+					"y": 0,
+					"z": -0.574
+				},
+				"trans": {
+					"x": -614.235,
+					"y": 66.596,
+					"z": 56.362
+				}
+			},
+			"guid": "BD92338C-408F-A3C6-1269-C0F47B7550A0"
+		},
+		{
+			"name": "Architecture/ME_StorefrontsAddons/ME_Storefronts_NarrowRampWall_01",
+			"origin": 2,
+			"blueprintCtrRef": {
+				"partitionGuid": "C58E2683-43F6-11E0-9DF8-AEF258F5624C",
+				"name": "Architecture/ME_StorefrontsAddons/ME_Storefronts_NarrowRampWall_01",
+				"instanceGuid": "05A9A699-C690-1D6E-F182-D009D17C9283",
+				"typeName": "ObjectBlueprint"
+			},
+			"transform": {
+				"left": {
+					"x": 0.819,
+					"y": 0,
+					"z": -0.574
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.574,
+					"y": 0,
+					"z": 0.819
+				},
+				"trans": {
+					"x": -622.549,
+					"y": 66.619,
+					"z": 62.197
+				}
+			},
+			"guid": "42AF8864-76F8-01CE-49F7-8C24DFCF44F4"
+		},
+		{
+			"name": "Objects/Vegetation/TreeBeech_L_01/TreeBeech_L_01",
+			"transform": {
+				"left": {
+					"x": -0.506,
+					"y": -0.010,
+					"z": 0.578
+				},
+				"up": {
+					"x": -0.027,
+					"y": 0.767,
+					"z": -0.010
+				},
+				"forward": {
+					"x": -0.577,
+					"y": -0.027,
+					"z": -0.506
+				},
+				"trans": {
+					"x": -512.702,
+					"y": 59.571,
+					"z": -29.622
+				}
+			},
+			"blueprintCtrRef": {
+				"partitionGuid": "E7D90BE0-8C50-11E0-8D30-E7D6DB601A7A",
+				"name": "Objects/Vegetation/TreeBeech_L_01/TreeBeech_L_01",
+				"instanceGuid": "FCB7701D-63BD-288A-D5B9-202C1FB3CF19",
+				"typeName": "ObjectBlueprint"
+			},
+			"origin": 2,
+			"variation": 1653578684,
+			"guid": "F0E5BA48-295C-EA16-9192-A9E35D9578B4"
+		},
+		{
+			"name": "Objects/Vegetation/TreeBeech_L_01/TreeBeech_L_01",
+			"transform": {
+				"left": {
+					"x": 0.525,
+					"y": -0.013,
+					"z": 0.617
+				},
+				"up": {
+					"x": 0.036,
+					"y": 0.809,
+					"z": -0.013
+				},
+				"forward": {
+					"x": -0.617,
+					"y": 0.036,
+					"z": 0.525
+				},
+				"trans": {
+					"x": -446.346,
+					"y": 70.342,
+					"z": -234.270
+				}
+			},
+			"blueprintCtrRef": {
+				"partitionGuid": "E7D90BE0-8C50-11E0-8D30-E7D6DB601A7A",
+				"name": "Objects/Vegetation/TreeBeech_L_01/TreeBeech_L_01",
+				"instanceGuid": "FCB7701D-63BD-288A-D5B9-202C1FB3CF19",
+				"typeName": "ObjectBlueprint"
+			},
+			"origin": 2,
+			"variation": 1653578684,
+			"guid": "6CA250D7-3C82-8F62-6B40-9A9A787F0644"
+		},
+		{
+			"name": "Objects/Vegetation/TreeBeech_L_01/TreeBeech_L_01",
+			"transform": {
+				"left": {
+					"x": 0.450,
+					"y": 0.003,
+					"z": 0.757
+				},
+				"up": {
+					"x": -0.009,
+					"y": 0.881,
+					"z": 0.003
+				},
+				"forward": {
+					"x": -0.757,
+					"y": -0.009,
+					"z": 0.450
+				},
+				"trans": {
+					"x": -512.292,
+					"y": 59.001,
+					"z": -48.283
+				}
+			},
+			"blueprintCtrRef": {
+				"partitionGuid": "E7D90BE0-8C50-11E0-8D30-E7D6DB601A7A",
+				"name": "Objects/Vegetation/TreeBeech_L_01/TreeBeech_L_01",
+				"instanceGuid": "FCB7701D-63BD-288A-D5B9-202C1FB3CF19",
+				"typeName": "ObjectBlueprint"
+			},
+			"origin": 2,
+			"variation": 1653578684,
+			"guid": "821585D3-F360-8AE2-B72F-F01F7E77640E"
+		},
+		{
+			"name": "Objects/Vegetation/TreeBeech_L_01/TreeBeech_L_01",
+			"transform": {
+				"left": {
+					"x": -0.805,
+					"y": -0.017,
+					"z": 0.831
+				},
+				"up": {
+					"x": -0.041,
+					"y": 1.156,
+					"z": -0.017
+				},
+				"forward": {
+					"x": -0.830,
+					"y": -0.041,
+					"z": -0.805
+				},
+				"trans": {
+					"x": -532.103,
+					"y": 60.523,
+					"z": -22.465
+				}
+			},
+			"blueprintCtrRef": {
+				"partitionGuid": "E7D90BE0-8C50-11E0-8D30-E7D6DB601A7A",
+				"name": "Objects/Vegetation/TreeBeech_L_01/TreeBeech_L_01",
+				"instanceGuid": "FCB7701D-63BD-288A-D5B9-202C1FB3CF19",
+				"typeName": "ObjectBlueprint"
+			},
+			"origin": 2,
+			"variation": 1653578684,
+			"guid": "608201F5-A55B-40CA-0540-414B533FEDFC"
+		},
+		{
+			"name": "Objects/Vegetation/TreeAspen_L_01/TreeAspen_L_01",
+			"transform": {
+				"left": {
+					"x": -0.829,
+					"y": 0.033,
+					"z": 0.212
+				},
+				"up": {
+					"x": 0.043,
+					"y": 0.855,
+					"z": 0.033
+				},
+				"forward": {
+					"x": -0.210,
+					"y": 0.043,
+					"z": -0.829
+				},
+				"trans": {
+					"x": -545.212,
+					"y": 67.251,
+					"z": 69.840
+				}
+			},
+			"blueprintCtrRef": {
+				"partitionGuid": "8300BDD0-53CB-11E0-BA13-FE9C5942CC40",
+				"name": "Objects/Vegetation/TreeAspen_L_01/TreeAspen_L_01",
+				"instanceGuid": "28639F59-FD45-F54A-95EC-65A96530CE5C",
+				"typeName": "ObjectBlueprint"
+			},
+			"origin": 2,
+			"variation": 2199214260,
+			"guid": "3BFB97E0-65C3-978C-0BE4-60630F7E7A2F"
+		},
+		{
+			"name": "Objects/Vegetation/TreeAspen_L_01/TreeAspen_L_01",
+			"transform": {
+				"left": {
+					"x": -0.160,
+					"y": -0.001,
+					"z": 0.781
+				},
+				"up": {
+					"x": -0.011,
+					"y": 0.797,
+					"z": -0.001
+				},
+				"forward": {
+					"x": -0.781,
+					"y": -0.011,
+					"z": -0.160
+				},
+				"trans": {
+					"x": -542.552,
+					"y": 67.251,
+					"z": 68.511
+				}
+			},
+			"blueprintCtrRef": {
+				"partitionGuid": "8300BDD0-53CB-11E0-BA13-FE9C5942CC40",
+				"name": "Objects/Vegetation/TreeAspen_L_01/TreeAspen_L_01",
+				"instanceGuid": "28639F59-FD45-F54A-95EC-65A96530CE5C",
+				"typeName": "ObjectBlueprint"
+			},
+			"origin": 2,
+			"variation": 2199214260,
+			"guid": "D26D1BBA-905E-2CE3-88AC-4845765D0946"
+		},
+		{
+			"name": "Objects/Vegetation/TreeAspen_L_01/TreeAspen_L_01",
+			"transform": {
+				"left": {
+					"x": -1.044,
+					"y": 0.083,
+					"z": -0.263
+				},
+				"up": {
+					"x": 0.064,
+					"y": 1.075,
+					"z": 0.083
+				},
+				"forward": {
+					"x": 0.268,
+					"y": 0.064,
+					"z": -1.044
+				},
+				"trans": {
+					"x": -501.340,
+					"y": 64.609,
+					"z": 27.835
+				}
+			},
+			"blueprintCtrRef": {
+				"partitionGuid": "8300BDD0-53CB-11E0-BA13-FE9C5942CC40",
+				"name": "Objects/Vegetation/TreeAspen_L_01/TreeAspen_L_01",
+				"instanceGuid": "28639F59-FD45-F54A-95EC-65A96530CE5C",
+				"typeName": "ObjectBlueprint"
+			},
+			"origin": 2,
+			"variation": 2199214260,
+			"guid": "EE6CD6C5-CC1F-3E9B-FBC2-A81A4985B42E"
+		},
+		{
+			"name": "Objects/Vegetation/TreeAspen_L_01/TreeAspen_L_01",
+			"transform": {
+				"left": {
+					"x": 0.535,
+					"y": -0.011,
+					"z": 0.525
+				},
+				"up": {
+					"x": 0.027,
+					"y": 0.749,
+					"z": -0.011
+				},
+				"forward": {
+					"x": -0.524,
+					"y": 0.027,
+					"z": 0.535
+				},
+				"trans": {
+					"x": -507.169,
+					"y": 65.342,
+					"z": 26.731
+				}
+			},
+			"blueprintCtrRef": {
+				"partitionGuid": "8300BDD0-53CB-11E0-BA13-FE9C5942CC40",
+				"name": "Objects/Vegetation/TreeAspen_L_01/TreeAspen_L_01",
+				"instanceGuid": "28639F59-FD45-F54A-95EC-65A96530CE5C",
+				"typeName": "ObjectBlueprint"
+			},
+			"origin": 2,
+			"variation": 2199214260,
+			"guid": "7EADC752-413C-87CD-1EED-DEE71F220B32"
+		},
+		{
+			"name": "Objects/Vegetation/TreeAspen_L_01/TreeAspen_L_01",
+			"transform": {
+				"left": {
+					"x": -1.049,
+					"y": -0.021,
+					"z": -0.081
+				},
+				"up": {
+					"x": -0.020,
+					"y": 1.052,
+					"z": -0.021
+				},
+				"forward": {
+					"x": 0.081,
+					"y": -0.020,
+					"z": -1.049
+				},
+				"trans": {
+					"x": -527.248,
+					"y": 65.437,
+					"z": 28.542
+				}
+			},
+			"blueprintCtrRef": {
+				"partitionGuid": "8300BDD0-53CB-11E0-BA13-FE9C5942CC40",
+				"name": "Objects/Vegetation/TreeAspen_L_01/TreeAspen_L_01",
+				"instanceGuid": "28639F59-FD45-F54A-95EC-65A96530CE5C",
+				"typeName": "ObjectBlueprint"
+			},
+			"origin": 2,
+			"variation": 2199214260,
+			"guid": "1B4F9B1B-05E2-1FB7-1DD4-6AE35A65E1E8"
+		},
+		{
+			"name": "Objects/Vegetation/TreeAspen_L_01/TreeAspen_L_01",
+			"transform": {
+				"left": {
+					"x": 1.135,
+					"y": -0.010,
+					"z": -0.478
+				},
+				"up": {
+					"x": 0.006,
+					"y": 1.232,
+					"z": -0.010
+				},
+				"forward": {
+					"x": 0.478,
+					"y": 0.006,
+					"z": 1.135
+				},
+				"trans": {
+					"x": -552.262,
+					"y": 64.219,
+					"z": 26.851
+				}
+			},
+			"blueprintCtrRef": {
+				"partitionGuid": "8300BDD0-53CB-11E0-BA13-FE9C5942CC40",
+				"name": "Objects/Vegetation/TreeAspen_L_01/TreeAspen_L_01",
+				"instanceGuid": "28639F59-FD45-F54A-95EC-65A96530CE5C",
+				"typeName": "ObjectBlueprint"
+			},
+			"origin": 2,
+			"variation": 2199214260,
+			"guid": "3889DB1D-C114-44DA-5CF3-EF5DDDD22F9B"
+		},
+		{
+			"name": "Objects/Vegetation/TreeAspen_L_01/TreeAspen_L_01",
+			"transform": {
+				"left": {
+					"x": 0.329,
+					"y": -0.038,
+					"z": -1.191
+				},
+				"up": {
+					"x": 0.005,
+					"y": 1.236,
+					"z": -0.038
+				},
+				"forward": {
+					"x": 1.192,
+					"y": 0.005,
+					"z": 0.329
+				},
+				"trans": {
+					"x": -556.550,
+					"y": 62.328,
+					"z": 4.349
+				}
+			},
+			"blueprintCtrRef": {
+				"partitionGuid": "8300BDD0-53CB-11E0-BA13-FE9C5942CC40",
+				"name": "Objects/Vegetation/TreeAspen_L_01/TreeAspen_L_01",
+				"instanceGuid": "28639F59-FD45-F54A-95EC-65A96530CE5C",
+				"typeName": "ObjectBlueprint"
+			},
+			"origin": 2,
+			"variation": 2199214260,
+			"guid": "862608E1-ED48-DC60-C79E-C160B5309840"
+		},
+		{
+			"name": "Objects/Vegetation/TreeAspen_L_01/TreeAspen_L_01",
+			"transform": {
+				"left": {
+					"x": -0.235,
+					"y": -0.089,
+					"z": -0.894
+				},
+				"up": {
+					"x": -0.011,
+					"y": 0.924,
+					"z": -0.089
+				},
+				"forward": {
+					"x": 0.898,
+					"y": -0.011,
+					"z": -0.235
+				},
+				"trans": {
+					"x": -594.349,
+					"y": 58.907,
+					"z": 30.484
+				}
+			},
+			"blueprintCtrRef": {
+				"partitionGuid": "8300BDD0-53CB-11E0-BA13-FE9C5942CC40",
+				"name": "Objects/Vegetation/TreeAspen_L_01/TreeAspen_L_01",
+				"instanceGuid": "28639F59-FD45-F54A-95EC-65A96530CE5C",
+				"typeName": "ObjectBlueprint"
+			},
+			"origin": 2,
+			"variation": 2199214260,
+			"guid": "0CCE5CA1-CB84-0585-D96A-49118435ABD5"
+		},
+		{
+			"name": "Objects/Vegetation/TreeAspen_L_01/TreeAspen_L_01",
+			"transform": {
+				"left": {
+					"x": -0.455,
+					"y": 0.009,
+					"z": 0.756
+				},
+				"up": {
+					"x": 0.031,
+					"y": 0.882,
+					"z": 0.009
+				},
+				"forward": {
+					"x": -0.755,
+					"y": 0.031,
+					"z": -0.455
+				},
+				"trans": {
+					"x": -583.935,
+					"y": 64.863,
+					"z": 45.855
+				}
+			},
+			"blueprintCtrRef": {
+				"partitionGuid": "8300BDD0-53CB-11E0-BA13-FE9C5942CC40",
+				"name": "Objects/Vegetation/TreeAspen_L_01/TreeAspen_L_01",
+				"instanceGuid": "28639F59-FD45-F54A-95EC-65A96530CE5C",
+				"typeName": "ObjectBlueprint"
+			},
+			"origin": 2,
+			"variation": 2199214260,
+			"guid": "57F0D6DA-34D5-1020-F956-7608BB44BE5C"
+		},
+		{
+			"name": "Objects/Vegetation/TreeAspen_L_01/TreeAspen_L_01",
+			"transform": {
+				"left": {
+					"x": 0.500,
+					"y": 0,
+					"z": 0.866
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": -0.866,
+					"y": 0,
+					"z": 0.500
+				},
+				"trans": {
+					"x": -603.852,
+					"y": 63.133,
+					"z": 53.018
+				}
+			},
+			"blueprintCtrRef": {
+				"partitionGuid": "8300BDD0-53CB-11E0-BA13-FE9C5942CC40",
+				"name": "Objects/Vegetation/TreeAspen_L_01/TreeAspen_L_01",
+				"instanceGuid": "28639F59-FD45-F54A-95EC-65A96530CE5C",
+				"typeName": "ObjectBlueprint"
+			},
+			"origin": 2,
+			"variation": 2199214260,
+			"guid": "80EF4DA9-02B0-9DF0-8466-DB5B4E1E0053"
+		},
+		{
+			"name": "Objects/Vegetation/BushAzalea_M_01/BushAzalea_M_01",
+			"transform": {
+				"left": {
+					"x": 1,
+					"y": 0,
+					"z": 0
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0,
+					"y": 0,
+					"z": 1
+				},
+				"trans": {
+					"x": -596.058,
+					"y": 64.444,
+					"z": 55.052
+				}
+			},
+			"blueprintCtrRef": {
+				"partitionGuid": "DB46F711-5546-11E0-A3ED-CDFD2F2F5318",
+				"name": "Objects/Vegetation/BushAzalea_M_01/BushAzalea_M_01",
+				"instanceGuid": "252BA249-DD12-78F8-2193-688B0C9D1069",
+				"typeName": "ObjectBlueprint"
+			},
+			"origin": 2,
+			"variation": 1308313370,
+			"guid": "231C3D16-4157-3CAF-479B-36F3A9077DA0"
+		},
+		{
+			"name": "Props/HighwayProps/MetalBarrier_01/MetalBarrier_Pole",
+			"origin": 2,
+			"blueprintCtrRef": {
+				"partitionGuid": "45BD4B56-01A0-11DE-B4E1-D24BF3EC261A",
+				"name": "Props/HighwayProps/MetalBarrier_01/MetalBarrier_Pole",
+				"instanceGuid": "45BD4B57-01A0-11DE-B4E1-D24BF3EC261A",
+				"typeName": "ObjectBlueprint"
+			},
+			"transform": {
+				"left": {
+					"x": -1.229,
+					"y": 0,
+					"z": 0.860
+				},
+				"up": {
+					"x": 0,
+					"y": 2.300,
+					"z": 0
+				},
+				"forward": {
+					"x": -0.860,
+					"y": 0,
+					"z": -1.229
+				},
+				"trans": {
+					"x": -614.010,
+					"y": 66.094,
+					"z": 56.314
+				}
+			},
+			"guid": "31CD4E61-6E5E-0A80-7B3F-0B5B62EEBD12"
+		},
+		{
+			"name": "Objects/Vegetation/TreeBeech_L_01/TreeBeech_L_01",
+			"transform": {
+				"left": {
+					"x": 0.801,
+					"y": -0.048,
+					"z": 0
+				},
+				"up": {
+					"x": 0.048,
+					"y": 0.799,
+					"z": -0.048
+				},
+				"forward": {
+					"x": 0.003,
+					"y": 0.048,
+					"z": 0.801
+				},
+				"trans": {
+					"x": -542.229,
+					"y": 64.158,
+					"z": 9.821
+				}
+			},
+			"blueprintCtrRef": {
+				"partitionGuid": "E7D90BE0-8C50-11E0-8D30-E7D6DB601A7A",
+				"name": "Objects/Vegetation/TreeBeech_L_01/TreeBeech_L_01",
+				"instanceGuid": "FCB7701D-63BD-288A-D5B9-202C1FB3CF19",
+				"typeName": "ObjectBlueprint"
+			},
+			"origin": 2,
+			"variation": 1653578684,
+			"guid": "AC0E80DB-5889-0E21-D93C-7C196A5F1FB5"
+		},
+		{
+			"name": "Objects/Vegetation/TreeAspen_L_01/TreeAspen_L_01",
+			"transform": {
+				"left": {
+					"x": 0.990,
+					"y": 0.045,
+					"z": 0.683
+				},
+				"up": {
+					"x": -0.086,
+					"y": 1.200,
+					"z": 0.045
+				},
+				"forward": {
+					"x": -0.680,
+					"y": -0.086,
+					"z": 0.990
+				},
+				"trans": {
+					"x": -503.689,
+					"y": 64.460,
+					"z": 20.597
+				}
+			},
+			"blueprintCtrRef": {
+				"partitionGuid": "8300BDD0-53CB-11E0-BA13-FE9C5942CC40",
+				"name": "Objects/Vegetation/TreeAspen_L_01/TreeAspen_L_01",
+				"instanceGuid": "28639F59-FD45-F54A-95EC-65A96530CE5C",
+				"typeName": "ObjectBlueprint"
+			},
+			"origin": 2,
+			"variation": 2199214260,
+			"guid": "BABC3F46-A6EE-DA76-229C-079E6B18CA90"
+		},
+		{
+			"name": "Architecture/ME_StorefrontsAddons/ME_Storefronts_NarrowRampWall_01",
+			"origin": 2,
+			"blueprintCtrRef": {
+				"partitionGuid": "C58E2683-43F6-11E0-9DF8-AEF258F5624C",
+				"name": "Architecture/ME_StorefrontsAddons/ME_Storefronts_NarrowRampWall_01",
+				"instanceGuid": "05A9A699-C690-1D6E-F182-D009D17C9283",
+				"typeName": "ObjectBlueprint"
+			},
+			"transform": {
+				"left": {
+					"x": 0.574,
+					"y": 0,
+					"z": 0.819
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": -0.819,
+					"y": 0,
+					"z": 0.574
+				},
+				"trans": {
+					"x": -629.623,
+					"y": 66.619,
+					"z": 60.878
+				}
+			},
+			"guid": "7566A050-5EED-EA22-CCB8-8EB20971816B"
+		},
+		{
+			"name": "Objects/Vegetation/TreeAspen_L_01/TreeAspen_L_01",
+			"transform": {
+				"left": {
+					"x": 1.205,
+					"y": 0,
+					"z": -0.298
+				},
+				"up": {
+					"x": 0,
+					"y": 1.241,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.298,
+					"y": 0,
+					"z": 1.205
+				},
+				"trans": {
+					"x": -548.958,
+					"y": 64.065,
+					"z": 12.980
+				}
+			},
+			"blueprintCtrRef": {
+				"partitionGuid": "8300BDD0-53CB-11E0-BA13-FE9C5942CC40",
+				"name": "Objects/Vegetation/TreeAspen_L_01/TreeAspen_L_01",
+				"instanceGuid": "28639F59-FD45-F54A-95EC-65A96530CE5C",
+				"typeName": "ObjectBlueprint"
+			},
+			"origin": 2,
+			"variation": 2199214260,
+			"guid": "AB39D3C8-9F22-7480-CE40-A804AFCA1BB6"
+		},
+		{
+			"name": "Objects/Vegetation/TreeBeech_L_01/TreeBeech_L_01",
+			"transform": {
+				"left": {
+					"x": -1.201,
+					"y": -0.035,
+					"z": 0.077
+				},
+				"up": {
+					"x": -0.037,
+					"y": 1.203,
+					"z": -0.035
+				},
+				"forward": {
+					"x": -0.076,
+					"y": -0.037,
+					"z": -1.201
+				},
+				"trans": {
+					"x": -594.058,
+					"y": 64.782,
+					"z": 50.171
+				}
+			},
+			"blueprintCtrRef": {
+				"partitionGuid": "E7D90BE0-8C50-11E0-8D30-E7D6DB601A7A",
+				"name": "Objects/Vegetation/TreeBeech_L_01/TreeBeech_L_01",
+				"instanceGuid": "FCB7701D-63BD-288A-D5B9-202C1FB3CF19",
+				"typeName": "ObjectBlueprint"
+			},
+			"origin": 2,
+			"variation": 1653578684,
+			"guid": "E94AB1AA-3E62-7B8A-5283-3229A3A6521D"
+		},
+		{
+			"name": "Objects/Vegetation/TreeBeech_L_01/TreeBeech_L_01",
+			"transform": {
+				"left": {
+					"x": -0.948,
+					"y": 0.037,
+					"z": -0.112
+				},
+				"up": {
+					"x": 0.033,
+					"y": 0.954,
+					"z": 0.037
+				},
+				"forward": {
+					"x": 0.113,
+					"y": 0.033,
+					"z": -0.948
+				},
+				"trans": {
+					"x": -579.994,
+					"y": 58.847,
+					"z": 17.704
+				}
+			},
+			"blueprintCtrRef": {
+				"partitionGuid": "E7D90BE0-8C50-11E0-8D30-E7D6DB601A7A",
+				"name": "Objects/Vegetation/TreeBeech_L_01/TreeBeech_L_01",
+				"instanceGuid": "FCB7701D-63BD-288A-D5B9-202C1FB3CF19",
+				"typeName": "ObjectBlueprint"
+			},
+			"origin": 2,
+			"variation": 1653578684,
+			"guid": "C68AE27B-54FA-D813-CA05-1185C7A6D726"
+		},
+		{
+			"name": "Objects/Vegetation/TreeBeech_L_01/TreeBeech_L_01",
+			"transform": {
+				"left": {
+					"x": -1.083,
+					"y": -0.023,
+					"z": 0.033
+				},
+				"up": {
+					"x": -0.023,
+					"y": 1.083,
+					"z": -0.023
+				},
+				"forward": {
+					"x": -0.033,
+					"y": -0.023,
+					"z": -1.083
+				},
+				"trans": {
+					"x": -451.803,
+					"y": 67.452,
+					"z": -148.355
+				}
+			},
+			"blueprintCtrRef": {
+				"partitionGuid": "E7D90BE0-8C50-11E0-8D30-E7D6DB601A7A",
+				"name": "Objects/Vegetation/TreeBeech_L_01/TreeBeech_L_01",
+				"instanceGuid": "FCB7701D-63BD-288A-D5B9-202C1FB3CF19",
+				"typeName": "ObjectBlueprint"
+			},
+			"origin": 2,
+			"variation": 1653578684,
+			"guid": "D6428346-C7C5-7568-0604-41586DB621A1"
+		},
+		{
+			"name": "Architecture/ME_StorefrontsAddons/ME_Storefronts_NarrowRampWall_01",
+			"origin": 2,
+			"blueprintCtrRef": {
+				"partitionGuid": "C58E2683-43F6-11E0-9DF8-AEF258F5624C",
+				"name": "Architecture/ME_StorefrontsAddons/ME_Storefronts_NarrowRampWall_01",
+				"instanceGuid": "05A9A699-C690-1D6E-F182-D009D17C9283",
+				"typeName": "ObjectBlueprint"
+			},
+			"transform": {
+				"left": {
+					"x": 0.819,
+					"y": 0,
+					"z": -0.574
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.574,
+					"y": 0,
+					"z": 0.819
+				},
+				"trans": {
+					"x": -626.676,
+					"y": 66.619,
+					"z": 65.086
+				}
+			},
+			"guid": "D4749FCB-BEE2-C388-79E6-AC8F3774E0AC"
+		},
+		{
+			"name": "Objects/Vegetation/TreeBeech_L_01/TreeBeech_L_01",
+			"transform": {
+				"left": {
+					"x": -0.848,
+					"y": 0.039,
+					"z": 0.145
+				},
+				"up": {
+					"x": 0.047,
+					"y": 0.859,
+					"z": 0.039
+				},
+				"forward": {
+					"x": -0.143,
+					"y": 0.047,
+					"z": -0.848
+				},
+				"trans": {
+					"x": -455.965,
+					"y": 68.413,
+					"z": -200.136
+				}
+			},
+			"blueprintCtrRef": {
+				"partitionGuid": "E7D90BE0-8C50-11E0-8D30-E7D6DB601A7A",
+				"name": "Objects/Vegetation/TreeBeech_L_01/TreeBeech_L_01",
+				"instanceGuid": "FCB7701D-63BD-288A-D5B9-202C1FB3CF19",
+				"typeName": "ObjectBlueprint"
+			},
+			"origin": 2,
+			"variation": 1653578684,
+			"guid": "C7C6D9C9-72A7-EE3B-3420-DF7D23972B81"
+		},
+		{
+			"name": "Objects/Container_01/Container_01",
+			"origin": 2,
+			"blueprintCtrRef": {
+				"partitionGuid": "D07A0BF5-0283-11DE-89A9-CF46ECB9574D",
+				"name": "Objects/Container_01/Container_01",
+				"instanceGuid": "D07A0BF6-0283-11DE-89A9-CF46ECB9574D",
+				"typeName": "ObjectBlueprint"
+			},
+			"transform": {
+				"left": {
+					"x": 0.819,
+					"y": 0,
+					"z": -0.574
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.574,
+					"y": 0,
+					"z": 0.819
+				},
+				"trans": {
+					"x": -633.119,
+					"y": 65.551,
+					"z": 61.370
+				}
+			},
+			"guid": "D2786C40-47DE-5FE0-693E-579823D127DF"
+		},
+		{
+			"name": "Objects/Vegetation/TreeAspen_L_01/TreeAspen_L_01",
+			"transform": {
+				"left": {
+					"x": -0.337,
+					"y": -0.001,
+					"z": 1.163
+				},
+				"up": {
+					"x": -0.007,
+					"y": 1.211,
+					"z": -0.001
+				},
+				"forward": {
+					"x": -1.163,
+					"y": -0.007,
+					"z": -0.337
+				},
+				"trans": {
+					"x": -543.069,
+					"y": 64.051,
+					"z": 29.645
+				}
+			},
+			"blueprintCtrRef": {
+				"partitionGuid": "8300BDD0-53CB-11E0-BA13-FE9C5942CC40",
+				"name": "Objects/Vegetation/TreeAspen_L_01/TreeAspen_L_01",
+				"instanceGuid": "28639F59-FD45-F54A-95EC-65A96530CE5C",
+				"typeName": "ObjectBlueprint"
+			},
+			"origin": 2,
+			"variation": 2199214260,
+			"guid": "24B81AEF-D798-5CD3-6FAF-5439A83C8162"
+		},
+		{
+			"name": "Levels/COOP_010/props/SubwayDoor_Coop",
+			"origin": 2,
+			"blueprintCtrRef": {
+				"partitionGuid": "510C2891-C413-11E0-92B7-9843B863D357",
+				"name": "Levels/COOP_010/props/SubwayDoor_Coop",
+				"instanceGuid": "D47C8364-3196-A580-A1E7-6AFC5061AB17",
+				"typeName": "ObjectBlueprint"
+			},
+			"transform": {
+				"left": {
+					"x": 0.819,
+					"y": 0,
+					"z": -0.574
+				},
+				"up": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"forward": {
+					"x": 0.574,
+					"y": 0,
+					"z": 0.819
+				},
+				"trans": {
+					"x": -615.666,
+					"y": 65.563,
+					"z": 53.892
+				}
+			},
+			"guid": "9BED20E2-975B-187D-F4D6-FA9AC261E99F"
+		}
+	]
+}
